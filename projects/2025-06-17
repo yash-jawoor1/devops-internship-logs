@@ -1,0 +1,16 @@
+# Project: RunCloud to ServerAvatar Migration
+
+## Objective
+Migrate existing websites from RunCloud to ServerAvatar while ensuring minimal downtime and secure configurations.
+
+## Progress Log
+
+### ✅ 2025-06-20
+- Successfully migrated one site from **RunCloud** to **ServerAvatar**.
+- Configured domain, SSL certificate, and **Nginx** rules via ServerAvatar's UI.
+- Connected to the server using **SSH** for domain setup.
+- Consulted ServerAvatar support for setup issues.
+
+## Next Steps
+- Continue migrating additional websites.
+- Troubleshoot and resolve local environment issues for the migrated site.
