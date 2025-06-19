@@ -1,0 +1,6 @@
+| Date       | Tool/Skill      | Description                                                  |
+|------------|------------------|--------------------------------------------------------------|
+| 2025-06-20 | SSH              | Used for secure connection to remote server.                |
+| 2025-06-20 | ServerAvatar     | Performed domain addition, SSL setup, and Nginx config.     |
+| 2025-06-20 | Nginx            | Configured rules via ServerAvatar UI.                       |
+| 2025-06-20 | RunCloud         | Understood and migrated website from RunCloud environment.  |
