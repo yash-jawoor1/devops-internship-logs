@@ -1,0 +1,12 @@
+# DevOps Internship Log – 2025-06-17
+
+## ✅ What I did today
+- Connected to the server via **SSH** and added the domain using **ServerAvatar**.
+- Generated an **SSL certificate**, configured **Nginx** rules using the UI, and engaged with support for troubleshooting.
+- Understood the full **migration workflow** and successfully migrated one website from **RunCloud**.
+
+## 🕒 What I will do tomorrow
+- Continue migrating the remaining websites from **RunCloud** to **ServerAvatar**.
+
+## 🧱 Blockers
+- The migrated site is not working locally. Will investigate and resolve configuration issues.
