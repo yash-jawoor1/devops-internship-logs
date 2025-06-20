@@ -1,0 +1,15 @@
+📝 End-of-Day Update – 20th June
+✅ What I Did Today
+Provisioned a Compute Engine VM on Google Cloud Platform (GCP) for the first time
+
+Configured firewall rules (ports: 22, 80, 443, 34210) to allow SSH, web, and RunCloud traffic
+
+Installed and connected the server to RunCloud using a manual installation script
+
+Verified setup of NGINX, PHP, and MariaDB through RunCloud dashboard
+
+Understood how RunCloud simplifies deployment, SSL setup, and monitoring
+
+Explored possible project ideas around site migration, Git integration, and CI/CD pipelines
+
+Reviewed how to implement Git + Jenkins + Docker + Kubernetes for future project expansion
