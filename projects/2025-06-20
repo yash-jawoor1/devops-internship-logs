@@ -1,0 +1,25 @@
+# GCP VM + RunCloud Integration – Web Hosting Setup
+
+## ✅ Objective
+To provision and configure a secure, production-ready web server on Google Cloud Platform, and automate setup using RunCloud for easier web application hosting.
+
+## 🔧 Tools & Services
+- Google Cloud Platform (Compute Engine)
+- RunCloud (manual installation)
+- NGINX, PHP 8.x, MariaDB
+- Firewall configuration
+- GitHub (for future deployment)
+- CI/CD Planning: Jenkins, SonarQube, Docker, GCR, GKE
+
+## 🧩 Completed Tasks
+- Provisioned VM on GCP
+- Configured firewall rules
+- Installed RunCloud manually via secure script
+- Verified stack readiness (LAMP/LEMP)
+- Planned future CI/CD pipeline
+
+## 🚀 Next Steps
+- Deploy a sample app (PHP or WordPress)
+- Set up Git-based deployment
+- Simulate site migration from AWS to GCP
+- Implement Jenkins-based CI/CD
